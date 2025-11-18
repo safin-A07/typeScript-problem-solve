@@ -118,4 +118,3 @@ function calculateTotalPrice(products: Product[]): number {
 }
 
 
-console.log(getUniqueValues([1, 2, "apple"], [2, "banana", "apple"]));
